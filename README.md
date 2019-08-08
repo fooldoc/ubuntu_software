@@ -2,7 +2,7 @@ ubuntu软件包，非安装程序
 ========
 一键ubuntu软件，请前往该地址：
 ========
-https://github.com/EattingWind/ubuntu_install
+https://github.com/fooldoc/ubuntu_install
 ========
 
 
