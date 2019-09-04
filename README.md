@@ -10,6 +10,8 @@ https://github.com/fooldoc/ubuntu_install
 ========
 名称：一键安装ubuntu软件包
 
-作者：EattingWind
+作者：fooldoc-傻瓜文档
 
 邮箱：949477774@qq.com
+
+博客：https://www.fooldoc.com
